@@ -20,7 +20,7 @@ my_label.grid(column=0, row=1)
 milesEntryBox = Entry(width=10)
 milesEntryBox.grid(column=1, row=0)
 
-#Entry - Km
+#Label - Km
 kmEntryLabel = Label(text=0)
 kmEntryLabel.grid(column=1, row=1)
 
